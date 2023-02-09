@@ -15,20 +15,26 @@ As principais dependências utilizadas:
 ## Passo a passo do desenvolvimento
 
 - Expo
+
 Utilizei o Expo para formular o projeto, pensando na portabilidade android/iphone, o Expo em suas funcionalidades facilita bastante a realização da portabilidade.
 
 - React Navigation
+
 Já de inicio instalei o react navigation para utilizar ele além da navegação, fazer o Header do aplicativo. a partir do Stack Navigator.
 
 - Expo-location
+
 Utilizado para pedir permissão ao usuário, para acesso ao GPS e sua localização.
 
 - Redux
+
 Utilizado para formular a fila quando offline.
 
 - Geolocation
+
 Utilizado para capturar a latitude e longitude do usuário
 - Axios
+
 Utilizado para comunicação com o backend
 
 ## Instalação
